@@ -153,5 +153,4 @@ Em ambiente de produção, as regras de segurança do Firebase devem ser ajustad
 🔄 Em fase de testes de usabilidade  
 📌 Próximos passos: expansão da base de dados, integração de geolocalização e certificação de produtores.  
 
-## 👨‍💻 Autor  
-D
+## 👨‍💻 Autor  Sergio Ademir Rocha do Carmo
